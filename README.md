@@ -6,6 +6,8 @@ The Accident Risk Index is a Data Warehouse Project designed to apply our knowle
 2. To identify factors that affect the accident rate.
 3. To observe the effectiveness of police authority on roads.
 
+The datasets used: https://drive.google.com/drive/folders/1prD7uFgsfv4Mc5_hhNK5obAytPb3B1T0?usp=sharing 
+
 Employing ETL pipeline, data extraction, transformation, and loading processes are executed seamlessly.
 ![Screenshot 2023-12-08 100204](https://github.com/nikain28/Accident-Risk-Index/assets/129468757/717ab1f0-1618-450f-90ff-baeecfc74612)
 
